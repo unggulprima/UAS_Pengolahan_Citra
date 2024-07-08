@@ -52,9 +52,17 @@ combined_image = cv2.hconcat([image1_rgb, image2_rgb, image3_rgb])
 
 Tampilkan gambar gabungan
 
-    plt.imshow(combined_image)
-    plt.axis('off')  # Menyembunyikan sumbu
-    plt.show()
+   
 
 
 ## hasil output
+
+![citra 1](https://github.com/unggulprima/UAS_Pengolahan_Citra/assets/130428243/ebb33bea-617b-4fae-954b-4073cb706c5c)
+
+
+![citra 2](https://github.com/unggulprima/UAS_Pengolahan_Citra/assets/130428243/2258bb67-61df-4cde-b656-d1ddb073bed3)
+
+
+![citra 3](https://github.com/unggulprima/UAS_Pengolahan_Citra/assets/130428243/3d023ff8-63c3-42cb-b65b-a9e028d87801)
+
+
